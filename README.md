@@ -10,8 +10,10 @@ If you are student then azure students plan offers a 100$ credits and freebies f
 
 #### What do you need?
 You simply need a student email ID to verify and get Azure student plans. __preferably university given @.edu account__
+
 ## Deployment
-_Use jupyter notebooks in this repository to create and run VPN, follow the order of the notebook numbering to get a seamless installation experience!_
+~~_Use jupyter notebooks in this repository to create and run VPN, follow the order of the notebook numbering to get a seamless installation experience!_~~
+EDIT: To make the deployment process seamless, a google collab notebook is made! All you have to do is to open it, connect with your account and follow steps! [Click here to get link for google collab notebook](https://colab.research.google.com/drive/1jrltUfshELXj_DDDriPMEB-f0oyh0qnh?usp=sharing)
 ## Is it really free
 Don't make me repeat myself, __It really is free!!__
 ## Word Of Caution
